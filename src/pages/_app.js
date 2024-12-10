@@ -95,9 +95,9 @@ const App = props => {
   return (
     <CacheProvider value={emotionCache}>
       <Head>
-        <title>{`${themeConfig.templateName} - Assessment`}</title>
-        <meta name='description' content={`${themeConfig.templateName} – Assessment`} />
-        <meta name='keywords' content='Material Design, MUI, Admin, React Admin, Assessment' />
+        <title>{`${themeConfig.templateName} - Company Dashboard`}</title>
+        <meta name='description' content={`${themeConfig.templateName} – Company Dashboard`} />
+        <meta name='keywords' content='Material Design, MUI, Admin, React Admin, Company Dashboard' />
         <meta name='viewport' content='initial-scale=1, width=device-width' />
       </Head>
 
